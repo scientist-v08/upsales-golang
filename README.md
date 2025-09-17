@@ -1,13 +1,5 @@
 # Upsales Golang Backend
 
-## Acknowledgement
-
-I would like to acknowledge that I code slowly in **Node.js + ExpressJS**, which was the original expectation for this project. To still deliver a functional backend within a reasonable timeframe, I implemented it using **Golang**.
-
-I understand the importance of the expected stack and assure you that I am fully committed upskilling in **Node.js + ExpressJS** with the utmost dedication. This Golang version reflects my effort to complete the task while also preparing myself to upskill quickly.
-
----
-
 ## Getting Started
 
 ### 1. Install Go (Golang)
